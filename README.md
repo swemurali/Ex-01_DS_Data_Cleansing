@@ -39,3 +39,5 @@ df.head(20)
 ![output](./image2.png)
 ![output](./image3.png)
 ![output](./image4.png)
+# RESULT
+ the given data is read and performed data cleaning and saved the cleaned data to a file. 
